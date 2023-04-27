@@ -1,0 +1,16 @@
+html{
+    background-image: linear-gradient(90deg,white,steelblue,black);
+}
+.imagem{
+    align-items:center;
+
+}
+.letras{
+    font-family: 'Franklin Gothic Medium', sans-serif;
+    color: #000000	;
+}
+.temaB{
+    align-self: center;
+    border-radius: 100px;
+    color: red;
+}
